@@ -4,13 +4,13 @@ This project is designed to simplify the process of preparing questions for meet
 
 ## Table of Contents
 
-- [Introduction](##Introduction)
-- [Getting Started](##GettingStarted)
-- [Prerequisites](###Prerequisites)
-- [Installation](###Installation)
-- [Usage](###Usage)
-- [Contributing](###Contributing)
-- [License](###License)
+- [Introduction](https://github.com/carlossantoswd/tnt_api#introduction)
+- [Getting Started](https://github.com/carlossantoswd/tnt_api#getting-started)
+- [Prerequisites](https://github.com/carlossantoswd/tnt_api#prerequisites)
+- [Installation](https://github.com/carlossantoswd/tnt_api#installation)
+- [Usage](https://github.com/carlossantoswd/tnt_api#usage)
+- [Contributing](https://github.com/carlossantoswd/tnt_api#contributing)
+- [License](https://github.com/carlossantoswd/tnt_api#license)
 
 ## Introduction
 
